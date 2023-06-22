@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @randomcomposition
 - 👀 I’m interested in crypto, ml and data
-- 🌱 I’m currently learning crypto
+- 🌱 I’m currently learning web3,ml
 - 💞️ I’m looking to collaborate on os crypto projects
 
 
